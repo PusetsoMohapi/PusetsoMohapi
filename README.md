@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on learning JS and Python. I've finally grasped HTML5 and CSS3. I tried JS on my own but it's depresingly confusing so any assistance is welcomed.
 - 📫 How to reach me: Github | Instagram: @phik_eli
 
-Follow me on https://github.com/PusetsoMohapi/
+Follow me on https://github.com/PusetsoMohapi/ and check out my website, https://pusetsomohapi.github.io/Web-Portfolio/.
