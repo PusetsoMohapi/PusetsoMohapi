@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on learning JS and Python. I tried JS on my own but it's depresingly confusing so any assistance is welcomed.
 - 📫 How to reach me: Github | Linkedin.
 
-Follow me and check out my website, https://pusem.github.io/Web-Portfolio/.
+My web portfolio is still in development but you can check out my progress, https://pusem.github.io/myportfolio/.
