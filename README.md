@@ -1,4 +1,4 @@
-**👋 Hello there, welcome to my Github.**
+**Hello there, welcome to my Github.**
 
 I'm a beginner Web Developer.
 
